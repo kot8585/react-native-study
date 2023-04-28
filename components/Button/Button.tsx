@@ -19,7 +19,6 @@ const styles = StyleSheet.create({
     borderRadius: 4,
     alignSelf: 'flex-start',
     flexGrow: 0,
-    backgroundColor: 'purple',
   },
   buttonText: {
     color: 'white',

@@ -12,7 +12,7 @@ export default {
 
 export const Basic: StoryObj<ButtonProps> = {
   args: {
-    text: 'Hello World!!',
-    color: 'purple',
+    text: 'save',
+    textColor: 'blue',
   },
 };

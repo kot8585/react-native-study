@@ -50,6 +50,8 @@ try {
 const getStories = () => {
   return {
     "./components/Button/Button.stories.tsx": require("../components/Button/Button.stories.tsx"),
+    "./components/Button/DirectionButton.stories.tsx": require("../components/Button/DirectionButton.stories.tsx"),
+    "./components/Tesk.stories.jsx": require("../components/Tesk.stories.jsx"),
   };
 };
 
